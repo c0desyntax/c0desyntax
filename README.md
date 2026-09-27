@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**c0desyntax/c0desyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 16-year-old developer based in Europe (Spain). I build APIs, bots, and misc applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**Verifyer**](https://verify.hypixel.lol) | `Python · MongoDB` | Discord bot verification system |
+| [**hypixel.lol**](https://hypixel.lol) | `Linux` | Infrastructure and specialized email service hosting |
+| [**Lidl Plus Reverse**](https://github.com/c0desyntax/lidl-plus-reverse) | `Python` | Reverse engineering research & API client implementation |
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, Go
+- **Backend & Systems:** Linux, Nginx, RESTful APIs
+- **Tools & Workflow:** Git, Docker, HTTP Toolkit, AI Agents (OpenCode / LLM Tooling)
