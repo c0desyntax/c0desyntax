@@ -17,5 +17,5 @@ A 16-year-old developer based in Europe (Spain). I build APIs, bots, and misc ap
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** Python, Go
-- **Backend & Systems:** Linux, Nginx, RESTful APIs
+- **Backend & Systems:** Linux, Cloudflare, Nginx, RESTful APIs
 - **Tools & Workflow:** Git, Docker, HTTP Toolkit, AI Agents (OpenCode / LLM Tooling)
